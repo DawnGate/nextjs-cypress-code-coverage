@@ -1,0 +1,8 @@
+{
+  "all": true,
+  "check-coverage": true,
+  "instrument": true,
+  "reporter": ["text-summary", "lcov"],
+  "include": ["app/**/*"],
+  "exclude": ["app/api/coverage/**"]
+}
