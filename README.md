@@ -22,3 +22,7 @@ npm run cy:open (OR) npm run cy:run
 ```
 
 - Note: I write more commands in package.json, I don't want override swc in dev mode. So we will have **dev:babel** and **dev** commands
+
+# Demo
+
+![Nextjs simple code coverage](./public/demo.png)
